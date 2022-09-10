@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url(https://w0.peakpx.com/wallpaper/968/775/HD-wallpaper-stars-black-blackandwhite-night-sky-star-white.jpg);
+}
+
+.imgs{
+    width: 50px;
+    height: 50px;
+    margin-top: 90px;
+}
